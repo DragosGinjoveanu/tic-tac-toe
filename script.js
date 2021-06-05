@@ -5,6 +5,7 @@ for (var i = 1; i <= 3; i++) {
         table[i][j] = 0;
     }
 }
+
 // 1 (player1) is for X
 // 2 (player2) is for 0
 var turn = 1;
